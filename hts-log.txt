@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Dec 2023 22:43:11 at https://www.goldenaesthetics.in/before-after +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.goldenaesthetics.in/before-after -O1 "D:\goldenaesthetics_before_after" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:43:17	Warning: 	Note: due to https://www.goldenaesthetics.in remote robots.txt rules, links beginning with these path will be forbidden: /admin (see in the options to disable this)
+22:44:20	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.goldenaesthetics.in/before-after)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon1.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon4.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon5.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Eyelid.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon7.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon8.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icon9.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Hymenoplasty.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Scar-rivison.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Optoplasty.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Tummy-tuck.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Split-earlobe.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Face-lift.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/Breast-Augmentation.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/iconb.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/icone.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/iconw.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/iconm.png (from https://www.goldenaesthetics.in/service)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/services_detail/images/Favicon.png (from https://www.goldenaesthetics.in/services_detail/best-hair-transplant-clinic-in-punjab)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/path/to/dist/css/image-zoom.css (from https://www.goldenaesthetics.in/media-events)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/path/to/cdn/jquery.min.js (from https://www.goldenaesthetics.in/media-events)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/path/to/dist/js/image-zoom.min.js (from https://www.goldenaesthetics.in/media-events)
+22:46:15	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/custom.css (from https://www.goldenaesthetics.in/medical-tourism)
+22:46:42	Error: 	"Not Found" (404) at link https://www.goldenaesthetics.in/blog-detail/images/Favicon.png (from https://www.goldenaesthetics.in/blog-detail/give-your-skin-a-youthful-look-with-thread-lift-treatment-in-india)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 319 links scanned, 292 files written (21130521 bytes overall) [16264035 bytes received at 77080 bytes/sec], 6196031 bytes transferred using HTTP compression in 85 files, ratio 19%, 8.2 requests per connection
+(25 errors, 1 warnings, 0 messages)
